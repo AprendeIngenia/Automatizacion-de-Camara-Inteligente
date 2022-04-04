@@ -15,11 +15,11 @@ Hola chicos en este repositorio encontraran el codigo fuente para yomar una cama
 
 ![Copia de Mini](https://user-images.githubusercontent.com/85022752/161504090-ff63b35d-815b-4979-8ea4-08c5bb645330.jpg)
 
-### Recuerda que puedes contribuir a que siga desarrollando:
+# Recuerda que puedes contribuir a que siga desarrollando:
 Simplemente suscribiendote a mi canal de YouTube:
 - [Canal YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos)
 
-Ó siguiendome en mis redes sociales: 
+### Siguiendome en mis redes sociales: 
 - [Instagram](https://www.instagram.com/santiagsanchezr/)
 - [Twitter](https://twitter.com/SantiagSanchezR)
 

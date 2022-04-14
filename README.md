@@ -13,7 +13,8 @@ Hola chicos en este repositorio encontraran el codigo fuente para yomar una cama
 
 - Si deseas una explicacion a profundidad sobre como funciona el algoritmo te dejo este [Video explicativo](https://youtu.be/ZfHVpsSHJHM), tambien te explico como intalar las librerias.
 
-![Copia de Mini](https://user-images.githubusercontent.com/85022752/161504090-ff63b35d-815b-4979-8ea4-08c5bb645330.jpg)
+![Copia de Mini](https://user-images.githubusercontent.com/85022752/163333521-b2894a0d-720d-4531-a0fb-645564b6e926.jpg)
+
 
 # Recuerda que puedes contribuir a que siga desarrollando:
 Simplemente suscribiendote a mi canal de YouTube:

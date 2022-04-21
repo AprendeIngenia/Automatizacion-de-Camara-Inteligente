@@ -1,5 +1,5 @@
 # Seguimiento Automatico de Rostros con IA
-Hola chicos en este repositorio encontraran el codigo fuente para yomar una camara usb, un servomotor y un arduino y convertirlos en un pequeño sistema inteligente capaz de seguir rostros.
+Hola chicos en este repositorio encontraran el codigo fuente para tomar una camara usb, un servomotor y un arduino y convertirlos en un pequeño sistema inteligente capaz de seguir rostros.
 
 ### Seguimiento Sencillo:
 - En el archivo Camara.py encontraras el codigo general que debes implementar en Python para realizar una deteccion de rostros a traves de Mediapipe y posterior a eso establecer una comunicacion serial con Arduino, no olvides descargar el archivo Servo.ino en tu placa, ¡Ten cuidado!, este algoritmo seguirá todos los rostros que logre detectar y podria enloquecer el sistema.
